@@ -1,0 +1,6 @@
+{
+  "name": "RESPSOA — Minecraft Resource Pack Generator",
+  "description": "GUI-генератор ресурспаков Minecraft Java Edition (1.16.5 – 26.2) с темами, стилями, конвертацией и сборкой ZIP",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
